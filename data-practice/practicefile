@@ -1,0 +1,46 @@
+.div4{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+  position: relative;
+  display: inline-block;
+}
+.div5{
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  position: relative;
+  display: inline-block;
+}
+.div6{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  position: relative;
+  display: inline-block;
+}
+.div4{
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  position: absolute;
+
+}
+.div5{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: absolute;
+  left: 100px;
+  top: 100px;
+
+}
+.div6{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+
+}
